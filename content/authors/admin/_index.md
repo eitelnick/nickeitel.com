@@ -4,8 +4,8 @@ authors:
 bio: My interests include digital transformation, technology sourcing, 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: B.S. Business Administration
+    institution: Colorado State University
     year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
