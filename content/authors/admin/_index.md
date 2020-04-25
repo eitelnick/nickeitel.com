@@ -6,19 +6,16 @@ education:
   courses:
   - course: B.S. Business Administration
     institution: Colorado State University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
     year: 2008
-email: ""
+  - course: M.B.A. Certificate in Engineering Management
+    institution: Drexel University
+    year: 2010
+email: "eitel.nicholas@gmail.com"
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-name: Nelson Bighetti
+name: Nick Eitel
 organizations:
 - name: Stanford University
   url: ""
